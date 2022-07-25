@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying machine learning and AI to solve geoscientific problem.
 - 🌱 I’m currently learning various machine learning algorithms using R and Python.
 - 💞️ I’m looking to collaborate on solving geoscientific problem.
-- 📫 You can email me imamsohel1991@gmail.com
+- 📫 You can email me imam_immmm@bcsir.gov.bd or imamsohel1991@gmail.com
 
 <!---
 imamsohel/imamsohel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
